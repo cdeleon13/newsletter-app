@@ -1,0 +1,37 @@
+,Binary Race Variable,Sheltered,Unsheltered,Year
+0,Non-White,1425,1156,2020
+1,White,2242,2815,2020
+0,"Black, African American, or African",1083,821,2020
+1,"Non-Black, African American, or African",2584,3150,2020
+0,Asian or Asian American,62,53,2020
+1,Non-Asian or Asian American,3605,3918,2020
+0,"American Indian, Alaska Native, or Indigenous",61,96,2020
+1,"Non-American Indian, Alaska Native, or Indigenous",3606,3875,2020
+0,Native Hawaiian or Pacific Islander,35,67,2020
+1,Non-Native Hawaiian or Pacific Islander,3632,3904,2020
+0,Multiple Races,184,119,2020
+1,Non-Multiple Races,3483,3852,2020
+0,Non-White,1452,0,2021
+1,White,2691,0,2021
+0,"Black, African American, or African",1044,0,2021
+1,"Non-Black, African American, or African",3099,0,2021
+0,Asian or Asian American,91,0,2021
+1,Non-Asian or Asian American,4052,0,2021
+0,"American Indian, Alaska Native, or Indigenous",80,0,2021
+1,"Non-American Indian, Alaska Native, or Indigenous",4063,0,2021
+0,Native Hawaiian or Pacific Islander,46,0,2021
+1,Non-Native Hawaiian or Pacific Islander,4097,0,2021
+0,Multiple Races,191,0,2021
+1,Non-Multiple Races,3952,0,2021
+0,"American Indian, Alaska Native, or Indigenous",104,157,2022
+1,"Non-American Indian, Alaska Native, or Indigenous",4217,3949,2022
+0,Asian or Asian American,70,97,2022
+1,Non-Asian or Asian American,4251,4009,2022
+0,"Black, African American, or African",1137,929,2022
+1,"Non-Black, African American, or African",3184,3177,2022
+0,Native Hawaiian or Pacific Islander,104,52,2022
+1,Non-Native Hawaiian or Pacific Islander,4217,4054,2022
+0,Non-White,1580,1316,2022
+1,White,2741,2790,2022
+0,Multiple Races,165,81,2022
+1,Non-Multiple Races,4156,4025,2022

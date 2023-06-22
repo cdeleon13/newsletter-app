@@ -1,0 +1,37 @@
+,Binary Race Variable,Coordinated Entry,Day Shelter,Emergency Shelter,Homelessness Prevention,PH - Housing Only,PH - Housing with Services (no disability required for entry),PH - Permanent Supportive Housing (disability required for entry),PH - Rapid Re-Housing,Safe Haven,Services Only,Street Outreach,Transitional Housing,Year
+0,Non-White,87,3,915,733,1,13,60,691,6,1262,276,303,2020
+1,White,124,1,1414,879,0,16,104,780,16,1624,414,457,2020
+2,"Black, African American, or African",63,2,673,468,1,9,42,529,5,888,204,224,2020
+3,"Non-Black, African American, or African",148,2,1656,1144,0,20,122,942,17,1998,486,536,2020
+4,Native Hawaiian or Pacific Islander,3,1,32,21,0,2,2,11,0,29,3,8,2020
+5,Non-Native Hawaiian or Pacific Islander,208,3,2297,1591,1,27,162,1460,22,2857,687,752,2020
+6,Multi-Racial,11,0,90,74,0,2,10,84,0,140,36,31,2020
+7,Non-Multi-Racial,200,4,2239,1538,1,27,154,1387,22,2746,654,729,2020
+8,"American Indian, Alaska Native, or Indigenous",5,0,55,22,0,0,4,24,0,53,11,6,2020
+9,"Non-American Indian, Alaska Native, or Indigenous",206,4,2274,1590,1,29,160,1447,22,2833,679,754,2020
+10,Asian or Asian American,3,0,31,45,0,0,1,34,1,43,11,13,2020
+11,Non-Asian or Asian American,208,4,2298,1567,1,29,163,1437,21,2843,679,747,2020
+12,Non-White,566,0,799,729,1,20,129,782,1,1399,246,226,2021
+13,White,793,0,1261,945,7,25,192,830,10,2065,373,429,2021
+14,"Black, African American, or African",394,0,545,405,1,15,87,577,0,978,157,162,2021
+15,"Non-Black, African American, or African",965,0,1515,1269,7,30,234,1035,11,2486,462,493,2021
+16,Native Hawaiian or Pacific Islander,14,0,25,21,0,0,9,19,0,32,4,3,2021
+17,Non-Native Hawaiian or Pacific Islander,1345,0,2035,1653,8,45,312,1593,11,3432,615,652,2021
+18,Multi-Racial,70,0,82,87,0,1,18,103,0,178,28,26,2021
+19,Non-Multi-Racial,1289,0,1978,1587,8,44,303,1509,11,3286,591,629,2021
+20,"American Indian, Alaska Native, or Indigenous",27,0,44,15,0,1,8,31,0,61,18,15,2021
+21,"Non-American Indian, Alaska Native, or Indigenous",1332,0,2016,1659,8,44,313,1581,11,3403,601,640,2021
+22,Asian or Asian American,38,0,43,37,0,2,7,29,0,65,19,13,2021
+23,Non-Asian or Asian American,1321,0,2017,1637,8,43,314,1583,11,3399,600,642,2021
+24,Non-White,727,0,605,404,22,11,92,585,4,1607,300,201,2022
+25,White,972,2,1075,698,38,15,107,658,14,2325,526,347,2022
+26,"Black, African American, or African",494,0,392,240,14,6,69,431,3,1130,200,151,2022
+27,"Non-Black, African American, or African",1205,2,1288,862,46,20,130,812,15,2802,626,397,2022
+28,Native Hawaiian or Pacific Islander,31,0,33,8,3,0,2,23,0,63,11,9,2022
+29,Non-Native Hawaiian or Pacific Islander,1668,2,1647,1094,57,26,197,1220,18,3869,815,539,2022
+30,Multi-Racial,98,0,77,43,2,1,12,68,1,188,29,10,2022
+31,Non-Multi-Racial,1601,2,1603,1059,58,25,187,1175,17,3744,797,538,2022
+32,"American Indian, Alaska Native, or Indigenous",54,0,48,15,2,2,5,23,0,90,28,16,2022
+33,"Non-American Indian, Alaska Native, or Indigenous",1645,2,1632,1087,58,24,194,1220,18,3842,798,532,2022
+34,Asian or Asian American,25,0,25,30,1,0,3,26,0,63,12,6,2022
+35,Non-Asian or Asian American,1674,2,1655,1072,59,26,196,1217,18,3869,814,542,2022
